@@ -1,7 +1,8 @@
 streamlit
-seaborn
 pandas
-matplotlib
-sklearn
 numpy
-matplotlib
+seaborn
+matplotlib.pyplot
+sklearn.preprocessing.StandardScaler
+sklearn.model_selection.train_test_split
+time
