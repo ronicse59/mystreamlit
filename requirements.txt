@@ -2,4 +2,7 @@ streamlit
 seaborn
 pandas
 matplotlib
-from sklearn.preprocessing import StandardScaler
+sklearn
+numpy
+matplotlib
+time
